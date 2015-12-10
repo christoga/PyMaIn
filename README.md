@@ -1,6 +1,11 @@
 # PyMaIn
 > Python Math Input
 
+## Requirements
+* Command Line
+* Python Package
+* Git Installed
+
 ## To Use
 ```
 $ git clone https://github.com/codingsmartschool/PyMaIn.git
