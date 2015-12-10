@@ -10,7 +10,7 @@
 ```shell
 $ git clone https://github.com/codingsmartschool/PyMaIn.git
 $ cd PyMaIn
-$ python plus.py # You can change it
+$ python pymain/plus.py # You can change it
 ```
 
 ## License
