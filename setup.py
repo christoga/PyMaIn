@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import os
-input = raw_input("> ")
+input = raw_input("> (eg plus, minus, divide...)")
 
 if input == "plus":
 	os.system("pymain/plus.py")
