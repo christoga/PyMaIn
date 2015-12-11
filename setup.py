@@ -6,3 +6,6 @@ if input == plus:
 
 if input == minus:
 	os.system(pymain/minus.py)
+
+if input == multi:
+	os.system(pymain/multi.py)
