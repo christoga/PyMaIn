@@ -12,3 +12,6 @@ if input == multi:
 
 if input == divide:
 	os.system(pymain/divide.py)
+
+if input == modulos:
+	os.system(pymain/modulos.py)
