@@ -1,7 +1,9 @@
 #!/usr/bin/python
-__author__ = "Andre Christoga"
-
+from setuptools
+import setup
 import os
+
+__author__ = "Andre Christoga"
 input = raw_input("> (eg plus, minus, divide...)")
 
 if input == "plus":
