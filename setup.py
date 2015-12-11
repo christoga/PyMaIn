@@ -1,4 +1,5 @@
 #!/usr/bin/python
+import os
 input = raw_input("> ")
 
 if input == plus:
