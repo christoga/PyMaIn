@@ -9,3 +9,6 @@ if input == minus:
 
 if input == multi:
 	os.system(pymain/multi.py)
+
+if input == divide:
+	os.system(pymain/divide.py)
