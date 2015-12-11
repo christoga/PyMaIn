@@ -1,4 +1,6 @@
 #!/usr/bin/python
+__author__ = "Andre Christoga"
+
 import os
 input = raw_input("> (eg plus, minus, divide...)")
 
