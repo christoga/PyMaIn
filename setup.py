@@ -1,8 +1,5 @@
 #!/usr/bin/python
-from setup
-
 import os
-import setuptools
 
 def plus(os):
 	os.system("plus.py")
