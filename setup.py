@@ -16,6 +16,8 @@ if input == "divide":
 	os.system("pymain/divide.py")
 if input == "modulos":
 	os.system("pymain/modulos.py")
+else :
+	print "The script does not exists"
 
 # setup(
 #     name="PyMaIn",
