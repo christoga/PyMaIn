@@ -2,6 +2,9 @@
 import os
 
 def main():
+	'''
+	Python Math Input
+	'''
 	__author__ = "Andre Christoga"
 	input = raw_input("> (eg plus, minus, divide...)")
 
