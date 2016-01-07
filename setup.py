@@ -3,19 +3,23 @@
 # import setup
 import os
 
-__author__ = "Andre Christoga"
-input = raw_input("> (eg plus, minus, divide...)")
+def main():
+	__author__ = "Andre Christoga"
+	input = raw_input("> (eg plus, minus, divide...)")
 
-if input == "plus":
-	os.system("pymain/plus.py")
-if input == "minus":
-	os.system("pymain/minus.py")
-if input == "multi":
-	os.system("pymain/multi.py")
-if input == "divide":
-	os.system("pymain/divide.py")
-if input == "modulos":
-	os.system("pymain/modulos.py")
+	if input == "plus":
+		os.system("pymain/plus.py")
+	if input == "minus":
+		os.system("pymain/minus.py")
+	if input == "multi":
+		os.system("pymain/multi.py")
+	if input == "divide":
+		os.system("pymain/divide.py")
+	if input == "modulos":
+		os.system("pymain/modulos.py")
+
+if __name__ == '__main__':
+	main()
 
 # setup(
 #     name="PyMaIn",
