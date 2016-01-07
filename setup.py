@@ -1,6 +1,4 @@
 #!/usr/bin/python
-# from setuptools
-# import setup
 import os
 
 def main():
@@ -20,20 +18,3 @@ def main():
 
 if __name__ == '__main__':
 	main()
-
-# setup(
-#     name="PyMaIn",
-#     version="1.0.0",
-#     author="Coding Smart School",
-#     author_email="codingsmartschool@gmail.com",
-#     url="https://github.com/codingsmartschool/pymain",
-#     description="Python Math Input",
-#     long_description=("PyMaIn is a python program that takes maths number"                 
-#                       " and give user the answer."),
-#     classifiers=[
-#         'Development Status :: 4 - Beta',
-#         'Programming Language :: Python',
-#     ],
-#     license="MIT",
-#     packages=['pymain'],
-# )
