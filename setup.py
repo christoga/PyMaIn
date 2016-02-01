@@ -1,11 +1,11 @@
 #!/usr/bin/python
 import os
+__author__ = "Andre Christoga"
 
 def main():
 	'''
 	Python Math Input
-	'''
-	__author__ = "Andre Christoga"
+	'''	
 	input = raw_input("> (eg plus, minus, divide...)")
 
 	if input == "plus":
