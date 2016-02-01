@@ -1,5 +1,5 @@
 # PyMaIn
-> Python Math Input
+Python Math Input
 
 ## Requirements
 * Command Line
